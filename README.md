@@ -1,6 +1,6 @@
 # \<ether-lodash\>
 
-Polymer Lodash wrapper
+Polymer 2 Lodash wrapper
 
 ## Install the Polymer-CLI
 
